@@ -2,7 +2,7 @@
  * 2nd_max.c
  *
  *  Created on: Aug 13, 2022
- *      Author: Dell
+ *      Author: Mo'men
  */
 #include <stdio.h>
 #include <limits.h>     //including limits library to use "INT_MIN"
