@@ -22,7 +22,7 @@ void freq_of_chars (char * st)
 {
 	int freq[max_size] ={0};    //initializing all counters to zeroes
 
-	for (int i=0;i<st[i]!='\0';i++)
+	for (int i=0;st[i]!='\0';i++)
 	{
 		freq[st[i]]++;      //the character whose ascii value is st[i]
 		                    //its order in the array will increment by one
